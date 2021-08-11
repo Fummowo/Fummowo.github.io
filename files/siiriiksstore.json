@@ -1,0 +1,31 @@
+{
+  "modules": [
+    {
+      "name": "Small Epic Additions",
+      "description": "Mixture of USRBG and other additions to add a bit of personalization to people's profiles.",
+      "version": "1.0.0",
+      "tags": [
+        "DOM",
+        "CSS",
+        "theme",
+        "port"
+      ],
+      "authors": [
+        {
+          "i": "234735735834411020",
+          "n": "Siiriiks",
+		  "a": "a_7c174791e752246bde215abdaa43e964"
+        }
+      ],
+      "github": {
+        "stars": 0,
+        "repo": "Siiriiks/SEA"
+      },
+      "lastUpdated": 1628653460
+    }
+  ],
+  "meta": {
+    "name": "Siiriiks' Repo",
+    "description": "Small collection of Theme's and Plugin's made by Siiriiks!"
+  }
+}
